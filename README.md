@@ -30,6 +30,13 @@ This project is a **Retrieval-Augmented Generation (RAG)** system for stock anal
 - **NLP / RAG Architecture**
 
 ---
-![image](https://github.com/user-attachments/assets/b98f4c0b-0efe-4fc6-bdce-854ff6cebf3d)
+# User Interface: ![image](https://github.com/user-attachments/assets/b98f4c0b-0efe-4fc6-bdce-854ff6cebf3d)
+![image](https://github.com/user-attachments/assets/fc005529-aec8-4c9d-85a0-740104d31495)
+# Pross & Cons: ![image](https://github.com/user-attachments/assets/ce3ce837-3f48-4896-b49d-b9ac09a3108b)
+![image](https://github.com/user-attachments/assets/4b1f300f-449f-4e01-9157-74343fa3c790)
+
+# Concluion: ![{D5106653-03A1-4BE8-B5D2-635A38098779}](https://github.com/user-attachments/assets/94dc81dd-cc57-49bf-8f46-8fe0126cd67f)
+
+
 
 
